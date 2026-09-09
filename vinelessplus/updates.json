@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "vinelessplus@extensions.local": {
+      "updates": [
+        {
+          "version": "0.2.0",
+          "update_link": "https://github.com/remal1/browser-extensions-releases/releases/download/vinelessplus-v0.2.0/vinelessplus-firefox-0.2.0.xpi"
+        }
+      ]
+    }
+  }
+}

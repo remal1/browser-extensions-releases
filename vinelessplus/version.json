@@ -1,0 +1,18 @@
+{
+  "name": "VinelessPlus",
+  "version": "0.2.0",
+  "releaseDate": "2026-09-09",
+  "minBrowserVersion": {
+    "chrome": "115",
+    "firefox": "115"
+  },
+  "changelog": {
+    "hu": "• Beállítások export/importálása és CDM mentés\\n• HDCP skála és vizuális visszajelzők\\n• 2x2-es kompakt haladó beállítások elrendezés\\n• Deprecated InstallTrigger kivezetése",
+    "en": "• Settings backup export/import & CDM keys\\n• HDCP slider scale & indicators\\n• 2x2 compact advanced options\\n• Removed deprecated InstallTrigger"
+  },
+  "downloads": {
+    "chrome": "https://github.com/remal1/browser-extensions-releases/releases/download/vinelessplus-v0.2.0/vinelessplus-chrome-0.2.0.zip",
+    "firefox": "https://github.com/remal1/browser-extensions-releases/releases/download/vinelessplus-v0.2.0/vinelessplus-firefox-0.2.0.xpi",
+    "releasePage": "https://github.com/remal1/browser-extensions-releases/releases"
+  }
+}
