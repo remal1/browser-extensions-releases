@@ -1,18 +1,18 @@
 {
   "name": "NcoreRSS",
-  "version": "4.9.1",
-  "releaseDate": "2026-09-09",
+  "version": "4.9.2",
+  "releaseDate": "2026-09-14",
   "minBrowserVersion": {
     "chrome": "115",
     "firefox": "115"
   },
   "changelog": {
-    "hu": "• Valós idejű háttér-adatfrissítés a felületen\n• Dinamikus hálózati szabályok (DNR) duplikációjának javítása\n• Automatikus és manuális frissítéskezelő integráció",
-    "en": "• Real-time background data sync in UI\n• DNR dynamic rules deduplication fix\n• Automatic & manual update manager integration"
+    "hu": "Torrent reszletek optimalizalas",
+    "en": "Torrent reszletek optimalizalas"
   },
   "downloads": {
-    "chrome": "https://github.com/remal1/browser-extensions-releases/releases/download/ncore-rss-v4.9.1/ncore-rss-chrome-4.9.1.zip",
-    "firefox": "https://github.com/remal1/browser-extensions-releases/releases/download/ncore-rss-v4.9.1/ncore-rss-firefox-4.9.1.xpi",
+    "chrome": "https://github.com/remal1/browser-extensions-releases/releases/download/ncore-rss-v4.9.2/ncore-rss-chrome-4.9.2.zip",
+    "firefox": "https://github.com/remal1/browser-extensions-releases/releases/download/ncore-rss-v4.9.2/ncore-rss-firefox-4.9.2.xpi",
     "releasePage": "https://github.com/remal1/browser-extensions-releases/releases"
   }
 }

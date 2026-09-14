@@ -3,8 +3,8 @@
     "ncorerss@example.com": {
       "updates": [
         {
-          "version": "4.9.1",
-          "update_link": "https://github.com/remal1/browser-extensions-releases/releases/download/ncore-rss-v4.9.1/ncore-rss-firefox-4.9.1.xpi"
+          "version": "4.9.2",
+          "update_link": "https://github.com/remal1/browser-extensions-releases/releases/download/ncore-rss-v4.9.2/ncore-rss-firefox-4.9.2.xpi"
         }
       ]
     }
